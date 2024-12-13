@@ -6,11 +6,11 @@
 
 ## Stuff I know 🤓
 
-![My Skills](https://skillicons.dev/icons?i=git,github,html,css,sass,javascript)
+![My Skills](https://skillicons.dev/icons?i=git,html,github,npm,css,scss,javascript)
 
 ## Want to learn 🧠
 
-![My Skills](https://skillicons.dev/icons?i=react,docker,typescript,nodejs)
+![My Skills](https://skillicons.dev/icons?i=react,docker,typescript,nodejs,nextjs,tailwind)
 
 ## Some stats
 
