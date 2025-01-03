@@ -6,17 +6,17 @@
   
 📢 Now i'm in the process of learning 
 
-![My Skills](https://skillicons.dev/icons?i=react,tailwind,nextjs)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs)
 
 </div>
 
 ## Stuff I know 🤓
 
-![My Skills](https://skillicons.dev/icons?i=git,html,github,npm,css,scss,javascript,vite,redux)
+![My Skills](https://skillicons.dev/icons?i=git,html,github,npm,css,scss,tailwind,javascript,vite,redux)
 
 ## Want to learn 🧠
 
-![My Skills](https://skillicons.dev/icons?i=react,docker,typescript,nodejs,nextjs,tailwind)
+![My Skills](https://skillicons.dev/icons?i=react,docker,typescript,nodejs,nextjs)
 
 ## Some stats
 
