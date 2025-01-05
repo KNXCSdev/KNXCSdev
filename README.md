@@ -6,7 +6,7 @@
   
 📢 Now i'm in the process of learning 
 
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,styledcomponents)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,styledcomponents,supabase)
 
 </div>
 
