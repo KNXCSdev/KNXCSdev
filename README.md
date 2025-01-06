@@ -6,13 +6,13 @@
   
 📢 Now i'm in the process of learning 
 
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,styledcomponents)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs)
 
 </div>
 
 ## Stuff I know 🤓
 
-![My Skills](https://skillicons.dev/icons?i=git,html,github,npm,css,scss,tailwind,javascript,vite,redux,supabase)
+![My Skills](https://skillicons.dev/icons?i=git,html,github,npm,css,scss,tailwind,javascript,vite,redux,supabase,styledcomponents)
 
 ## Want to learn 🧠
 
