@@ -6,17 +6,17 @@
   
 📢 Now i'm in the process of learning 
 
-![My Skills](https://skillicons.dev/icons?i=react,nextjs)
+![My Skills](https://skillicons.dev/icons?i=nextjs)
 
 </div>
 
 ## Stuff I know 🤓
 
-![My Skills](https://skillicons.dev/icons?i=git,html,github,npm,css,scss,tailwind,javascript,vite,redux,supabase,styledcomponents)
+![My Skills](https://skillicons.dev/icons?i=git,html,react,github,npm,css,scss,tailwind,javascript,vite,redux,supabase,styledcomponents)
 
 ## Want to learn 🧠
 
-![My Skills](https://skillicons.dev/icons?i=react,docker,typescript,nodejs,nextjs)
+![My Skills](https://skillicons.dev/icons?i=docker,typescript,nodejs,nextjs)
 
 ## A project that I am most proud of.
 https://the-wild-oasis-knxcsdev.vercel.app/
