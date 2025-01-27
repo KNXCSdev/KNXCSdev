@@ -14,14 +14,17 @@
 
 ## Stuff I know 🤓
 
-![My Skills](https://skillicons.dev/icons?i=git,html,react,github,npm,css,scss,tailwind,javascript,vite,redux,supabase,styledcomponents&perline=7)
+![My Skills](https://skillicons.dev/icons?i=git,html,react,github,npm,css,scss,tailwind,javascript,vite,redux,supabase,styledcomponents,nextjs&perline=7)
 
 ## Want to learn 🧠
 
 ![My Skills](https://skillicons.dev/icons?i=docker,typescript,nodejs)
 
-## A project that I am most proud of.
-https://the-wild-oasis-knxcsdev.vercel.app/
+## The projects that I am most proud of.
+
+[The Wild Oasis Management](https://the-wild-oasis-management-knxcsdev.vercel.app/) 
+[The Wild Oasis Website](https://the-wild-oasis-website-knxcsdev.vercel.app/)
+
 
 ## Some stats
 
