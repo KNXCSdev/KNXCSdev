@@ -6,9 +6,9 @@
 
 <div display:flex;'>
   
-📢 Now i'm in the process of learning 
+📢 Now i'm in the process of reinforcing what i learned 
 
-![My Skills](https://skillicons.dev/icons?i=nextjs)
+![My Skills](https://skillicons.dev/icons?i=nextjs,react)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## Want to learn 🧠
 
-![My Skills](https://skillicons.dev/icons?i=docker,typescript,nodejs,nextjs)
+![My Skills](https://skillicons.dev/icons?i=docker,typescript,nodejs)
 
 ## A project that I am most proud of.
 https://the-wild-oasis-knxcsdev.vercel.app/
