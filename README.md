@@ -2,6 +2,18 @@
 
 ## <a href='https://knxcsdev.vercel.app/'>Portfolio </a>
 
+## Bio 📃
+👨‍💻 I first discovered frontend development in high school—it was outdated, but that only fueled my curiosity and drive to improve. That’s where my journey began.
+
+⚛️ I love working with React because of its flexibility, responsiveness, and the endless possibilities it offers for creating modern, user-friendly projects.
+
+🎨 I’m passionate about clean, functional design and crafting seamless user experiences. Whether it’s coding a dynamic interface or solving complex frontend challenges, I thrive on turning ideas into reality.
+
+🚀 Right now, I’m actively seeking my first opportunity in the tech industry to showcase the skills I’ve gained through consistent learning and dedication.
+
+📚 When I’m not coding, you’ll probably find me exploring the latest tech trends or brainstorming new project ideas.
+
+
 ## Learning 📖
 
 <div display:flex;'>
