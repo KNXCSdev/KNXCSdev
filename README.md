@@ -20,7 +20,7 @@
   
 📢 Now i'm in the process of reinforcing what i learned 
 
-![My Skills](https://skillicons.dev/icons?i=nextjs,react)
+![My Skills](https://skillicons.dev/icons?i=nextjs,react,typescript)
 
 </div>
 
@@ -30,7 +30,7 @@
 
 ## Want to learn 🧠
 
-![My Skills](https://skillicons.dev/icons?i=docker,typescript,nodejs)
+![My Skills](https://skillicons.dev/icons?i=docker,nodejs)
 
 ## The projects that I am most proud of.
 
