@@ -20,17 +20,17 @@
   
 📢 Now i'm in the process of reinforcing what i learned 
 
-![My Skills](https://skillicons.dev/icons?i=nextjs,react,typescript)
+![My Skills](https://skillicons.dev/icons?i=nextjs,react)
 
 </div>
 
 ## Stuff I know 🤓
 
-![My Skills](https://skillicons.dev/icons?i=git,html,react,github,npm,css,scss,tailwind,javascript,vite,redux,supabase,styledcomponents,nextjs&perline=7)
+![My Skills](https://skillicons.dev/icons?i=git,html,react,github,npm,css,scss,tailwind,javascript,vite,redux,supabase,styledcomponents,nextjs,typescript&perline=7)
 
 ## Want to learn 🧠
 
-![My Skills](https://skillicons.dev/icons?i=docker,nodejs)
+![My Skills](https://skillicons.dev/icons?i=docker,nodejs,express,mongodb)
 
 ## The projects that I am most proud of.
 
