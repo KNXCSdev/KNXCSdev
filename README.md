@@ -20,7 +20,7 @@
   
 📢 Now i'm in the process of reinforcing what i learned 
 
-![My Skills](https://skillicons.dev/icons?i=react,typescript,figma)
+![My Skills](https://skillicons.dev/icons?i=react)
 
 </div>
 
