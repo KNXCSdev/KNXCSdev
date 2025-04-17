@@ -1,4 +1,4 @@
-<img alt="Hello I'm Michał" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=blue&center=false&vCenter=true&width=435&lines=Hello+I'm+Michał">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I`m+Michał)](https://git.io/typing-svg)
 
 ## <a href='https://knxcsdev.vercel.app/'>Portfolio </a>
 
