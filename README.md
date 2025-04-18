@@ -18,9 +18,9 @@
 
 <div display:flex;'>
   
-📢 Now i'm in the process of reinforcing what i learned 
+📢 Now i'm in the process of learning 
 
-![My Skills](https://skillicons.dev/icons?i=react)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)
 
 </div>
 
