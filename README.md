@@ -18,15 +18,15 @@
 
 <div display:flex;'>
   
-📢 Now i'm in the process of learning 
+📢 Now i'm in the process of reinforcing my skills  by building a website with:
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,react,tailwind,vite,javascript,typescript)
 
 </div>
 
 ## Stuff I know 🤓
 
-![My Skills](https://skillicons.dev/icons?i=git,html,react,github,npm,css,scss,tailwind,javascript,vite,redux,supabase,styledcomponents,typescript,nextjs,figma,postman&perline=7)
+![My Skills](https://skillicons.dev/icons?i=git,html,react,github,npm,css,scss,tailwind,javascript,vite,redux,supabase,styledcomponents,typescript,nextjs,figma,postman,nodejs,express,mongodb&perline=7)
 
 ## Want to learn 🧠
 
@@ -34,8 +34,9 @@
 
 ## The projects that I am most proud of.
 
-[The Wild Oasis Management](https://the-wild-oasis-management-knxcsdev.vercel.app/) 
-[The Wild Oasis Website](https://the-wild-oasis-website-knxcsdev.vercel.app/)
+[The Wild Oasis Management](https://the-wild-oasis-management-knxcsdev.vercel.app/)        
+[The Wild Oasis Website](https://the-wild-oasis-website-knxcsdev.vercel.app/)     
+[Natours](https://natours-knxcsdev.vercel.app/)    
 
 
 ## Some stats
