@@ -26,7 +26,7 @@
 
 ## Stuff I know 🤓
 
-![My Skills](https://skillicons.dev/icons?i=git,html,react,github,npm,css,scss,tailwind,javascript,vite,redux,supabase,styledcomponents,typescript,nextjs,figma,postman,nodejs,express,mongodb&perline=7)
+![My Skills](https://skillicons.dev/icons?i=git,html,react,github,npm,css,scss,tailwind,javascript,vite,redux,supabase,styledcomponents,typescript,nextjs,figma,postman,nodejs,express,mongodb,pug&perline=7)
 
 ## Want to learn 🧠
 
