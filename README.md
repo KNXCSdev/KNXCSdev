@@ -30,7 +30,7 @@
 
 ## Want to learn 🧠
 
-![My Skills](https://skillicons.dev/icons?i=docker)
+![My Skills](https://skillicons.dev/icons?i=docker,angular)
 
 ## The projects that I am most proud of.
 
