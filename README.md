@@ -18,15 +18,15 @@
 
 <div display:flex;'>
   
-📢 Now i'm in the process of reinforcing my skills  by building a website with:
+📢 Now i'm in the process of reinforcing my knowledge about nodejs and angular:
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,react,tailwind,vite,javascript,typescript)
+![My Skills](https://skillicons.dev/icons?i=nodejs,angular)
 
 </div>
 
 ## Stuff I know 🤓
 
-![My Skills](https://skillicons.dev/icons?i=git,html,react,github,npm,css,scss,tailwind,javascript,vite,redux,supabase,styledcomponents,typescript,nextjs,figma,postman,nodejs,express,mongodb,pug&perline=7)
+![My Skills](https://skillicons.dev/icons?i=git,html,react,angular,rxjs,github,npm,css,scss,tailwind,javascript,vite,redux,supabase,styledcomponents,typescript,nextjs,figma,postman,nodejs,express,mongodb,pug&perline=7)
 
 ## Want to learn 🧠
 
