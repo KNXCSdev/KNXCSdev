@@ -26,11 +26,11 @@
 
 ## Stuff I know 🤓
 
-![My Skills](https://skillicons.dev/icons?i=git,html,react,angular,rxjs,github,npm,css,scss,tailwind,javascript,vite,redux,supabase,styledcomponents,typescript,nextjs,figma,postman,nodejs,express,mongodb,pug&perline=7)
+![My Skills](https://skillicons.dev/icons?i=git,html,react,angular,rxjs,aws,github,npm,css,scss,tailwind,javascript,vite,redux,supabase,styledcomponents,typescript,nextjs,figma,postman,nodejs,express,mongodb,pug&perline=7)
 
 ## Want to learn 🧠
 
-![My Skills](https://skillicons.dev/icons?i=docker,aws)
+![My Skills](https://skillicons.dev/icons?i=docker)
 
 ## The projects that I am most proud of.
 
