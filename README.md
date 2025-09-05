@@ -20,7 +20,7 @@
   
 📢 Now i'm in the process of reinforcing my knowledge about nodejs and angular:
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,angular)
+![My Skills](https://skillicons.dev/icons?i=react,aws,kubernetes)
 
 </div>
 
