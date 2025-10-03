@@ -18,9 +18,9 @@
 
 <div display:flex;'>
   
-📢 Now i'm in the process of reinforcing my knowledge about nodejs and angular:
+📢 I am currently learning how to take on the role of a team lead and work effectively within Agile teams, while further developing my expertise with these technologies:
 
-![My Skills](https://skillicons.dev/icons?i=react,aws,kubernetes)
+![My Skills](https://skillicons.dev/icons?i=react,aws,kubernetes,tailwind)
 
 </div>
 
@@ -30,7 +30,7 @@
 
 ## Want to learn 🧠
 
-![My Skills](https://skillicons.dev/icons?i=docker)
+![My Skills](https://skillicons.dev/icons?i=vue)
 
 ## The projects that I am most proud of.
 
